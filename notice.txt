@@ -1,0 +1,9 @@
+Welcome to JavaJavaScript!
+==========================
+Java Scripts More!
+
+JavaJavaScript is a web site hosting Java applications of JScripter(JS) Libraries 1.0.
+All programs coming from www.javajavascript.org are open source under GNU Public License version 3 (gpl-v3).
+
+The examples require JDK 1.5(or above). Any bugs and issues, please contact the author J.J.Liu at jianjunliu@126.com
+or check the website http://www.javajavascript.org

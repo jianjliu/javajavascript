@@ -1,0 +1,12 @@
+JavaJavaScript 1.0
+==================
+Java Scripts More!
+
+2011-09-10
+	Rebuilt on JDK1.5
+	Re-compiled org.javajavascript.demo.core.lang.Longs
+	Re-compiled org.javajavascript.demo.core.lang.Doubles
+	Added Doubles.html, Doubles-min.js.html and Doubles-applet.html
+
+2011-07-15
+	Released
